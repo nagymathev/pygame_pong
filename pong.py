@@ -1,4 +1,3 @@
-from turtle import right
 import pygame
 from sys import exit
 
